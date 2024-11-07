@@ -1,0 +1,10 @@
+{
+    "BASE_URL": "https://example.com",
+    "LOGIN": "twoja_nazwa_użytkownika",
+    "PASSWORD": "twoje_hasło",
+    "CLUB_NAME": "Twój Klub Fitness",
+    "CLASS_NAME": "Zajęcia Joga",
+    "CLASS_HOUR": "10:00",
+    "DAYS_BEFORE_BOOKING": 7,
+    "DEBUG_MODE": false
+}
